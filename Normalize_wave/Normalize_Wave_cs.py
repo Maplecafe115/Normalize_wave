@@ -3,7 +3,7 @@
 # 		  Wave(mp3)音源の周波数と音量(dB)を取得して平均化する
 #       ★ EBU R 128による欧州放送連合推奨の計算式メソッドを用いる
 #
-# 			Build By Oura Chihiro(Sugarbell) [2015.08.20]
+# 			Build By Oura Chihiro(Sugarbell) [2023.08.20]
 # *********************************************************************** #
 from ffmpeg_normalize import FFmpegNormalize
 from pathlib import Path
